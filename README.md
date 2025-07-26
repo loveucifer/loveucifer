@@ -3,15 +3,19 @@
   <img src="https://komarev.com/ghpvc/?username=loveucifer&style=flat&color=gray" alt="profile views" />
 </p>
 
-<h1 align="left"><code>loveucifer</code></h1>
+<div align="center" style="background-color:#000000; color:#ffffff; padding: 20px; border-radius: 10px;">
 
-> loves working on <code>flutter</code>, <code>python</code>, <code>linux</code>, and <code>rust</code>.
+<h1 align="left"><code style="color:#ffffff;">loveucifer</code></h1>
 
+> loves working on <code style="color:#00ffe1;">flutter</code>, <code style="color:#00ffe1;">python</code>, <code style="color:#00ffe1;">linux</code>, and <code style="color:#00ffe1;">rust</code>.
 
 ---
 
 <p align="center">
-  <code>building systems.</code><br>
-  <code>writing code.</code><br>
-  <code>staying invisible.</code>
+  <code style="color:#ffffff;">building systems.</code><br>
+  <code style="color:#ffffff;">writing code.</code><br>
+  <code style="color:#ffffff;">staying invisible.</code>
 </p>
+
+</div>
+
