@@ -7,7 +7,7 @@
 
 <h1 align="left"><code style="color:#ffffff;">loveucifer</code></h1>
 
-> loves working on <code style="color:#00ffe1;">flutter</code>, <code style="color:#00ffe1;">python</code>, <code style="color:#00ffe1;">linux</code>, and <code style="color:#00ffe1;">rust</code>.
+ loves working on <code style="color:#00ffe1;">flutter</code>, <code style="color:#00ffe1;">python</code>, <code style="color:#00ffe1;">linux</code>, and <code style="color:#00ffe1;">rust</code>.
 
 ---
 
@@ -18,10 +18,3 @@
 </p>
 
 </div>
-
----
-
-<p align="center">
-  <img src="data:image/gif;base64,...." width="200" style="image-rendering: pixelated;" />
-</p>
-
