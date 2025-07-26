@@ -19,3 +19,11 @@
 
 </div>
 
+---
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/Z8HsgXes4XIAAAAC/pinkupinemame-kakegurui.gif" 
+       alt="anime eyes" 
+       width="200" 
+       style="image-rendering: pixelated;" />
+</p>
