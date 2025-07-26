@@ -18,4 +18,4 @@
 ### /about
 
 ```bash
-developer   |   product thinker   |   minimalist
+developer   |   product thinker   
