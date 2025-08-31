@@ -13,7 +13,7 @@
 
 <div align="right">
 
-<img src="https://tenor.com/view/pinkupinemame-kakegurui-anime-gif-7476516897214488946" width="230"/>
+<img src="./tenor.gif" width="230"/>
 
 </div>
 </div>
