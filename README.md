@@ -9,6 +9,12 @@
 
 <h1><code>loveucifer</code></h1>
 
+<h3>
+  <code>Python</code> · 
+  <code>Flutter</code> · 
+  <code>Rust</code>
+</h3>
+
 </div>
 
 <div align="right">
