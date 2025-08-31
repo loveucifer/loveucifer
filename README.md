@@ -11,10 +11,21 @@
 
 ---
 
-<p align="center">
-  <code style="color:#ffffff;">building systems.</code><br>
-  <code style="color:#ffffff;">writing code.</code><br>
-  <code style="color:#ffffff;">staying invisible.</code>
-</p>
+<table>
+<tr>
+<td style="vertical-align: top; text-align: left;">
+
+<code style="color:#ffffff;">building systems.</code><br>
+<code style="color:#ffffff;">writing code.</code><br>
+<code style="color:#ffffff;">staying invisible.</code>
+
+</td>
+<td style="vertical-align: middle;">
+
+<img src="https://media.tenor.com/i4sGOPKArGEAAAAC/hacker-hack.gif" width="200"/>
+
+</td>
+</tr>
+</table>
 
 </div>
