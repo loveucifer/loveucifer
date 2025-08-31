@@ -3,29 +3,29 @@
   <img src="https://komarev.com/ghpvc/?username=loveucifer&style=flat&color=gray" alt="profile views" />
 </p>
 
-<div align="center" style="background-color:#000000; color:#ffffff; padding: 20px; border-radius: 10px;">
-
-<h1 align="left"><code style="color:#ffffff;">loveucifer</code></h1>
-
- loves working on <code style="color:#00ffe1;">flutter</code>, <code style="color:#00ffe1;">python</code>, <code style="color:#00ffe1;">linux</code>, and <code style="color:#00ffe1;">rust</code>.
-
----
-
 <table>
 <tr>
-<td style="vertical-align: top; text-align: left;">
+<td style="width:60%; vertical-align: top;">
 
-<code style="color:#ffffff;">building systems.</code><br>
-<code style="color:#ffffff;">writing code.</code><br>
-<code style="color:#ffffff;">staying invisible.</code>
+<h1><code>loveucifer</code></h1>
+
+loves working on <code>flutter</code>, <code>python</code>, <code>linux</code>, and <code>rust</code>.
+
+<br>
+
+building BLACK, atelier, citadel and working on AI and ML <br>
+<code>as of 2025</code>.
+
+<br><br>
+
+<a href="https://github.com/loveucifer">github</a> &nbsp; x &nbsp; <a href="#">app</a>
 
 </td>
-<td style="vertical-align: middle;">
 
-<img src="https://media.tenor.com/i4sGOPKArGEAAAAC/hacker-hack.gif" width="200"/>
+<td style="width:40%; vertical-align: middle; text-align: center;">
+
+<img src="https://tenor.com/i4sGOPKArGE.gif" width="250" />
 
 </td>
 </tr>
 </table>
-
-</div>
