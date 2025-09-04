@@ -8,9 +8,9 @@
   <div style="text-align: left;">
     <h1><code>loveucifer</code></h1>
     <h3>
-      <code>Python</code> · 
-      <code>Flutter</code> · 
-      <code>Rust</code>
+      <code>Python</code> •
+      <code>Flutter</code> •
+      <code>Rust</code> •
       <code>Typescript</code>
     </h3>
   </div>
