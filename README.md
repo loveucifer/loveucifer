@@ -12,7 +12,7 @@
       <code>Flutter</code> •
       <code>Rust</code> •
       <code>C++</code> •
-      <code>Typescript</code>
+      <code>Go</code>
     </h3>
   </div>
 
