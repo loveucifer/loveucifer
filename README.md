@@ -8,11 +8,7 @@
   <div style="text-align: left;">
     <h1><code>loveucifer</code></h1>
     <h3>
-      <code>Python</code> •
-      <code>Flutter</code> •
-      <code>Rust</code> •
-      <code>C++</code> •
-      <code>Go</code>
+      <code> I work on just about everything </code> 
     </h3>
   </div>
 
