@@ -8,7 +8,7 @@
   <div style="text-align: left;">
     <h1><code>loveucifer</code></h1>
     <h3>
-      <code> I work on just about everything </code> 
+      <code> making a smol game engine </code> 
     </h3>
   </div>
 
