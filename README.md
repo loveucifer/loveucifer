@@ -8,9 +8,10 @@
   <div style="text-align: left;">
     <h1><code>loveucifer</code></h1>
     <h3>
-      <code> making a smol game engine </code> 
+      Building a custom vulkan game engine 
     </h3>
   </div>
+
 
   <div>
     <img src="./tenor.gif" width="230"/>
