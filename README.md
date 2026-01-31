@@ -8,13 +8,10 @@
   <div style="text-align: left;">
     <h1><code>loveucifer</code></h1>
     <h3>
-      Building a custom vulkan game engine 
+      
+    <h3>
+      D:
     </h3>
-  </div>
-
-
-  <div>
-    <img src="./tenor.gif" width="230"/>
   </div>
 
 </div>
